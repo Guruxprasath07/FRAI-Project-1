@@ -1,0 +1,9 @@
+﻿id,date,meal,comment,category,summary,urgent_source
+F02,2026-10-01,Dinner,Found a small insect in the sambar,hygiene,Insect found in sambar,llm
+F07,2026-10-03,Dinner,Sambar la poochi irundhuchu,hygiene,Insect found in sambar,llm
+F10,2026-10-05,Dinner,Chapati had a hair in it,hygiene,Hair found in chapati,llm
+F11,2026-10-05,Lunch,Two of us fell sick after eating the curd rice,hygiene,Students fell sick after eating curd rice,llm
+F15,2026-10-07,Dinner,Parotta was stale and smelled sour,hygiene,Parotta was stale and smelled sour,llm
+F18,2026-10-09,Dinner,Mudi irukku chapati la. Very bad,hygiene,Hair found in chapati,llm
+F20,2026-10-10,Breakfast,Milk packet was expired when we opened it,hygiene,Expired milk packet opened for breakfast,llm
+F23,2026-10-11,Dinner,Water jug had black particles floating in it,hygiene,Black particles floating in water jug,llm

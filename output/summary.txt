@@ -1,0 +1,27 @@
+MESS FEEDBACK SUMMARY
+=====================
+Total comments: 26
+
+Count per category:
+  taste               10
+  hygiene             9
+  quantity            2
+  timing              2
+  other               1
+  needs_manual_review 2
+
+Negative comments: 19 of 24 labelled = 79.2%
+Needs manual review: F16, F25
+
+URGENT LIST FOR THE WARDEN (8 comments)
+-----------------------------------
+F02 | 2026-10-01 | Dinner | Found a small insect in the sambar  [llm]
+F07 | 2026-10-03 | Dinner | Sambar la poochi irundhuchu  [llm]
+F10 | 2026-10-05 | Dinner | Chapati had a hair in it  [llm]
+F11 | 2026-10-05 | Lunch | Two of us fell sick after eating the curd rice  [llm]
+F15 | 2026-10-07 | Dinner | Parotta was stale and smelled sour  [llm]
+F18 | 2026-10-09 | Dinner | Mudi irukku chapati la. Very bad  [llm]
+F20 | 2026-10-10 | Breakfast | Milk packet was expired when we opened it  [llm]
+F23 | 2026-10-11 | Dinner | Water jug had black particles floating in it  [llm]
+
+Note: these are labels only. The warden decides what action to take.
