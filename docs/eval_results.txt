@@ -1,0 +1,20 @@
+EVAL HARNESS RESULTS
+Mode: LIVE (gemini-3.5-flash-lite)
+
+1. PASS | Found a small insect in the sambar
+     expected: category=hygiene, urgent=True
+     got:      category=hygiene, urgent=True (llm)
+2. PASS | Rice was undercooked again today
+     expected: category=taste, urgent=False
+     got:      category=taste, urgent=False
+3. PASS | Dinner was served after 9 pm again
+     expected: category=timing, urgent=False
+     got:      category=timing, urgent=False
+4. PASS | Not enough rice, we stayed hungry
+     expected: category=quantity, urgent=False
+     got:      category=quantity, urgent=False
+5. PASS | Chapati had a hair in it
+     expected: category=hygiene, urgent=True
+     got:      category=hygiene, urgent=True (llm)
+
+Score: 5 / 5 passed
